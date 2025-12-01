@@ -16,7 +16,12 @@ _SimpleGrabber is a boilerplate tool built in python to extract browser data to 
 - Extracts History 
 - Extracts Saved Passwords (iffy for non-chromium browsers. edge specifically)  
 - Extracts Discord token (browser instance only)
+- Built in EXE/script builder
 
+
+<a href="https://ibb.co/SDjq06wr"><img src="https://i.ibb.co/Gf6gkdQT/Screenshot-2025-11-30-232620-removebg-preview.png" alt="Screenshot-2025-11-30-232620-removebg-preview" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xKCxnY56/Screenshot-2025-11-30-232308-removebg-preview.png" alt="Screenshot-2025-11-30-232308-removebg-preview" border="0"></a>
 
 ---
 
